@@ -14,6 +14,8 @@
 		BD39E8BE2880659600185C11 /* segues.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD39E8BC2880659600185C11 /* segues.xcdatamodeld */; };
 		BD39E8C02880659700185C11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD39E8BF2880659700185C11 /* Assets.xcassets */; };
 		BD39E8C32880659700185C11 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD39E8C12880659700185C11 /* LaunchScreen.storyboard */; };
+		BD39E8CB288065C300185C11 /* secondScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD39E8CA288065C300185C11 /* secondScreen.swift */; };
+		BD39E8CD2880670700185C11 /* thirdScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD39E8CC2880670700185C11 /* thirdScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		BD39E8BF2880659700185C11 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD39E8C22880659700185C11 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD39E8C42880659700185C11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD39E8CA288065C300185C11 /* secondScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondScreen.swift; sourceTree = "<group>"; };
+		BD39E8CC2880670700185C11 /* thirdScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				BD39E8B32880659600185C11 /* AppDelegate.swift */,
 				BD39E8B52880659600185C11 /* SceneDelegate.swift */,
 				BD39E8B72880659600185C11 /* ViewController.swift */,
+				BD39E8CA288065C300185C11 /* secondScreen.swift */,
+				BD39E8CC2880670700185C11 /* thirdScreen.swift */,
 				BD39E8B92880659600185C11 /* Main.storyboard */,
 				BD39E8BF2880659700185C11 /* Assets.xcassets */,
 				BD39E8C12880659700185C11 /* LaunchScreen.storyboard */,
@@ -145,6 +151,8 @@
 				BD39E8B42880659600185C11 /* AppDelegate.swift in Sources */,
 				BD39E8B62880659600185C11 /* SceneDelegate.swift in Sources */,
 				BD39E8BE2880659600185C11 /* segues.xcdatamodeld in Sources */,
+				BD39E8CB288065C300185C11 /* secondScreen.swift in Sources */,
+				BD39E8CD2880670700185C11 /* thirdScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
